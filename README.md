@@ -23,6 +23,21 @@ bystander role label = present the role of bystander who reply to the main tweet
 2 - impartial - This person is not taking any sides
 3 -  other - This person posted unrelated replies
 
+
+## License
+This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.  
+You are free to:
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material.
+
+**Under the following terms**:
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so by citing this paper below (see ## Attribution)
+
+ 			
+- **NonCommercial**: You may not use the material for commercial purposes.
+
+To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+
 Reference for the dataset
 -------------------------
 To ensure proper acknowledgment and recognition of the dataset's source, we kindly request that you cite the following paper in any publications resulting from your work that utilize our dataset:
